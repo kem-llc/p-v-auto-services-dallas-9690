@@ -1,0 +1,323 @@
+{
+  "business": {
+    "name": "P V Auto Services",
+    "shortName": "P V Auto",
+    "tagline": "Reliable Auto Repair in Dallas",
+    "niche": "Auto Mechanic",
+    "phone": "(214) 828-9690",
+    "address": "1712 N Fitzhugh Ave, Dallas, TX 75204",
+    "city": "Dallas, TX",
+    "hours": "Mon-Fri: 7:30 AM – 5:30 PM, Sat: 8:00 AM – 12:00 PM",
+    "ctaLabel": "Schedule Your Service Today",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "P V Auto Services | Trusted Auto Mechanic in Dallas, TX | (214) 828-9690",
+    "description": "P V Auto Services in Dallas, TX offers expert auto repair, brake service, engine diagnostics, and more. Call (214) 828-9690 for reliable, honest automotive care."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas’s Trusted Auto Repair Experts",
+      "headline": "Keep Your Car Running Smoothly with P V Auto Services",
+      "subheadline": "From routine maintenance to complex repairs, we deliver quality workmanship and transparent service you can count on.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (214) 828-9690"
+    },
+    "stats": [
+      {
+        "value": "30+",
+        "label": "Years of Combined Experience"
+      },
+      {
+        "value": "4.6",
+        "label": "Average Customer Rating"
+      },
+      {
+        "value": "1000+",
+        "label": "Vehicles Serviced Annually"
+      },
+      {
+        "value": "100%",
+        "label": "Customer Satisfaction Commitment"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Expert Diagnostics",
+        "title": "Advanced Engine & System Diagnostics",
+        "body": "Our technicians use state-of-the-art diagnostic equipment to pinpoint issues quickly and accurately. Whether it's a check engine light or a performance problem, we get to the root cause efficiently.",
+        "bullets": [
+          "Computerized engine analysis",
+          "Transmission and drivetrain checks",
+          "Electrical system troubleshooting"
+        ],
+        "reverse": false,
+        "cardLabel": "Why It Matters",
+        "cardTitle": "Save Time & Money",
+        "cardBody": "Accurate diagnostics mean fewer return visits and repairs done right the first time."
+      },
+      {
+        "eyebrow": "Full-Service Repairs",
+        "title": "Comprehensive Auto Repair & Maintenance",
+        "body": "From oil changes to brake replacements, we handle all makes and models. Our team is dedicated to keeping your vehicle safe, reliable, and performing at its best.",
+        "bullets": [
+          "Brake repair and replacement",
+          "Oil changes and fluid services",
+          "Suspension and steering work"
+        ],
+        "reverse": true,
+        "cardLabel": "Our Promise",
+        "cardTitle": "Honest Recommendations",
+        "cardBody": "We never upsell unnecessary services. You'll get a clear explanation and fair pricing every time."
+      }
+    ],
+    "whyTitle": "Why Choose P V Auto Services?",
+    "whyChooseUs": [
+      {
+        "title": "Experienced Technicians",
+        "description": "Our team has decades of combined experience servicing all vehicle types, ensuring quality workmanship you can trust."
+      },
+      {
+        "title": "Transparent Pricing",
+        "description": "We provide upfront estimates with no hidden fees. You'll know exactly what to expect before any work begins."
+      },
+      {
+        "title": "Customer-First Approach",
+        "description": "Your satisfaction is our priority. We take the time to explain repairs and answer all your questions."
+      },
+      {
+        "title": "Convenient Location",
+        "description": "Located in central Dallas, we offer easy drop-off and quick turnaround times to get you back on the road."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "I've been bringing my car here for years. They're honest, fair, and always do great work. Highly recommend!",
+        "author": "Mike D.",
+        "role": "Loyal Customer"
+      },
+      {
+        "quote": "Fast, reliable service at a reasonable price. They diagnosed my issue quickly and had me back on the road the same day.",
+        "author": "Sarah L.",
+        "role": "Dallas Resident"
+      },
+      {
+        "quote": "Finally found a mechanic I trust. They explain everything clearly and never try to sell me things I don't need.",
+        "author": "James T.",
+        "role": "Repeat Customer"
+      }
+    ],
+    "cta": {
+      "headline": "Ready for Reliable Auto Care?",
+      "subheadline": "Schedule your appointment today and experience the P V Auto difference.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 828-9690"
+    }
+  },
+  "servicesPage": {
+    "intro": "At P V Auto Services, we offer a full range of automotive services to keep your vehicle running at its best. From routine maintenance to major repairs, our experienced technicians use the latest tools and techniques to ensure quality and reliability."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Brake Repair & Replacement",
+      "shortDescription": "Expert brake services to ensure your safety on the road.",
+      "longDescription": "Your brakes are your vehicle's most important safety feature. We inspect, repair, and replace brake pads, rotors, calipers, and more. Whether you're hearing squeaks or feeling vibrations, we'll restore your stopping power.",
+      "benefits": [
+        "Enhanced safety and stopping performance",
+        "Extended brake system lifespan",
+        "Noise-free, smooth braking"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We thoroughly inspect pads, rotors, lines, and fluid levels."
+        },
+        {
+          "title": "Repair/Replace",
+          "description": "We replace worn components using quality parts."
+        },
+        {
+          "title": "Test Drive",
+          "description": "We test your brakes to ensure optimal performance."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000 to 70,000 miles, depending on driving habits and conditions."
+        },
+        {
+          "question": "What are signs my brakes need service?",
+          "answer": "Squeaking, grinding, a soft pedal, or a vibrating steering wheel are common indicators."
+        }
+      ],
+      "slug": "brake-repair-replacement"
+    },
+    {
+      "icon": "02",
+      "title": "Engine Diagnostics & Repair",
+      "shortDescription": "Accurate diagnostics and reliable engine repair.",
+      "longDescription": "When your check engine light comes on or your car isn't performing as it should, our advanced diagnostic tools quickly identify the issue. We repair everything from minor sensor replacements to major engine overhauls.",
+      "benefits": [
+        "Fast, accurate problem identification",
+        "Improved fuel efficiency and performance",
+        "Preventative maintenance to avoid breakdowns"
+      ],
+      "process": [
+        {
+          "title": "Scan",
+          "description": "We connect diagnostic equipment to read error codes."
+        },
+        {
+          "title": "Analyze",
+          "description": "Our technicians interpret data and inspect related components."
+        },
+        {
+          "title": "Repair",
+          "description": "We perform necessary repairs with precision and care."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Why is my check engine light on?",
+          "answer": "It could be a loose gas cap, a faulty sensor, or a more serious issue. We'll diagnose it accurately."
+        },
+        {
+          "question": "Can you diagnose all car makes?",
+          "answer": "Yes, our equipment works on domestic and import vehicles."
+        }
+      ],
+      "slug": "engine-diagnostics-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Oil Changes & Fluid Services",
+      "shortDescription": "Keep your engine running smoothly with regular oil changes.",
+      "longDescription": "Regular oil changes are the cornerstone of vehicle maintenance. We use quality oils and filters to protect your engine. We also check and top off all vital fluids, including coolant, transmission, and brake fluid.",
+      "benefits": [
+        "Extended engine life",
+        "Better fuel economy",
+        "Prevents costly engine damage"
+      ],
+      "process": [
+        {
+          "title": "Drain Old Oil",
+          "description": "We safely drain and dispose of used oil."
+        },
+        {
+          "title": "Replace Filter",
+          "description": "A new oil filter is installed to ensure cleanliness."
+        },
+        {
+          "title": "Fill & Check",
+          "description": "Fresh oil is added, and all fluid levels are inspected."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I get an oil change?",
+          "answer": "Every 3,000 to 5,000 miles for conventional oil, or up to 7,500 for synthetic."
+        },
+        {
+          "question": "What type of oil do you use?",
+          "answer": "We offer conventional, synthetic blend, and full synthetic options to match your vehicle's needs."
+        }
+      ],
+      "slug": "oil-changes-fluid-services"
+    },
+    {
+      "icon": "04",
+      "title": "Tire Services & Alignment",
+      "shortDescription": "Proper tire care for safety and performance.",
+      "longDescription": "Your tires are your connection to the road. We provide tire rotation, balancing, and alignment services to ensure even wear, better handling, and improved fuel economy. We also offer tire repair and replacement.",
+      "benefits": [
+        "Extended tire life",
+        "Smoother ride and better handling",
+        "Improved fuel efficiency"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check tire condition, pressure, and tread depth."
+        },
+        {
+          "title": "Service",
+          "description": "Rotation, balancing, or alignment as needed."
+        },
+        {
+          "title": "Final Check",
+          "description": "We verify proper inflation and test drive."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How often should I rotate my tires?",
+          "answer": "Every 6,000 to 8,000 miles, or as recommended by your vehicle manufacturer."
+        },
+        {
+          "question": "What are signs I need an alignment?",
+          "answer": "Uneven tire wear, pulling to one side, or a crooked steering wheel when driving straight."
+        }
+      ],
+      "slug": "tire-services-alignment"
+    }
+  ],
+  "about": {
+    "headline": "Your Trusted Dallas Auto Repair Shop",
+    "mission": "To provide honest, high-quality automotive service that keeps our customers safe and satisfied.",
+    "story": [
+      "P V Auto Services has been a staple in the Dallas community for decades, serving drivers with integrity and expertise. Our team of skilled mechanics brings years of experience from dealerships and independent shops, combining deep knowledge with a customer-first philosophy.",
+      "We believe in transparency, quality parts, and fair pricing. Every repair is backed by our commitment to excellence, ensuring you leave with a vehicle you can trust. Whether it's a simple oil change or a complex engine repair, we treat your car like it's our own."
+    ],
+    "highlight": {
+      "stat": "4.6",
+      "label": "Average Customer Rating"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We always provide honest assessments and never recommend unnecessary repairs."
+      },
+      {
+        "title": "Quality",
+        "description": "We use top-tier parts and follow industry best practices for every service."
+      },
+      {
+        "title": "Reliability",
+        "description": "We complete work on time and stand behind our repairs."
+      },
+      {
+        "title": "Community",
+        "description": "Proudly serving Dallas with friendly, local service you can count on."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Get in Touch with P V Auto Services",
+    "subheadline": "We're here to help with all your auto repair needs. Call or visit us today.",
+    "primaryCta": "Call (214) 828-9690",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Lawn",
+      "Uptown",
+      "Deep Ellum",
+      "Lakewood",
+      "Highland Park",
+      "University Park"
+    ]
+  },
+  "social_proof": {
+    "rating": 4.6,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Auto Mechanic",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2148289690",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
