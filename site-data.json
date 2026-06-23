@@ -2,231 +2,226 @@
   "business": {
     "name": "P V Auto Services",
     "shortName": "P V Auto",
-    "tagline": "Expert Auto Repair in Dallas, TX",
+    "tagline": "Your Trusted Dallas Auto Mechanic for Over 20 Years",
     "niche": "Auto Mechanic",
     "phone": "(214) 828-9690",
     "address": "Done",
     "city": "Dallas, TX",
-    "hours": "Mon-Fri 7:00 AM - 6:00 PM, Sat 8:00 AM - 2:00 PM",
-    "ctaLabel": "Schedule Appointment",
+    "hours": "Mon-Fri: 7:30 AM - 5:30 PM, Sat: 8:00 AM - 12:00 PM",
+    "ctaLabel": "Schedule Your Appointment Today",
     "headerCta": "Call Now"
   },
   "seo": {
-    "title": "P V Auto Services | Expert Auto Mechanic in Dallas, TX",
-    "description": "Trust P V Auto Services in Dallas, TX for professional auto repair and maintenance. We service all makes and models with quality workmanship and transparent pricing."
+    "title": "P V Auto Services | Expert Auto Mechanic in Dallas, TX | (214) 828-9690",
+    "description": "P V Auto Services in Dallas, TX offers professional auto repair and maintenance. From brake service to engine diagnostics, trust our experienced mechanics. Call (214) 828-9690 today!"
   },
   "home": {
     "hero": {
-      "eyebrow": "Dallas's Trusted Auto Repair",
-      "headline": "Professional Auto Mechanic Services in Dallas, TX",
-      "subheadline": "From routine oil changes to complex engine repairs, our certified technicians deliver reliable, affordable service you can count on.",
-      "primaryCta": "Schedule Appointment",
+      "eyebrow": "Dallas's Premier Auto Repair Shop",
+      "headline": "Keep Your Car Running Smoothly with Expert Auto Service in Dallas",
+      "subheadline": "From routine maintenance to complex repairs, our certified mechanics deliver quality workmanship you can trust.",
+      "primaryCta": "Book an Appointment",
       "secondaryCta": "Call (214) 828-9690"
     },
     "stats": [
       {
-        "value": "15+",
-        "label": "Years Experience"
+        "value": "20+",
+        "label": "Years of Experience"
       },
       {
-        "value": "1000+",
+        "value": "5,000+",
         "label": "Cars Serviced"
       },
       {
-        "value": "4.9",
-        "label": "Customer Rating"
+        "value": "100%",
+        "label": "Customer Satisfaction"
       },
       {
-        "value": "100%",
-        "label": "Satisfaction Guarantee"
+        "value": "4.9",
+        "label": "Average Rating"
       }
     ],
     "featureSections": [
       {
-        "eyebrow": "Quality Repairs",
-        "title": "Comprehensive Auto Repair & Maintenance",
-        "body": "At P V Auto Services, we handle everything from brake repairs and AC service to engine diagnostics and transmission work. Our state-of-the-art equipment and skilled mechanics ensure your vehicle runs smoothly and safely.",
+        "eyebrow": "Comprehensive Auto Care",
+        "title": "Full-Service Auto Repair & Maintenance",
+        "body": "At P V Auto Services, we handle everything from oil changes to engine overhauls. Our state-of-the-art diagnostic equipment ensures we pinpoint issues quickly and accurately, saving you time and money.",
         "bullets": [
-          "Factory-trained technicians",
-          "Advanced diagnostic tools",
-          "Genuine and OEM parts",
-          "Written warranty on all repairs"
+          "Factory-grade diagnostic tools",
+          "ASE-certified technicians",
+          "Competitive pricing with no hidden fees"
         ],
         "reverse": false,
-        "cardLabel": "Our Promise",
-        "cardTitle": "Transparent Service",
-        "cardBody": "No hidden fees, no upsells. We explain every repair before starting work."
+        "cardLabel": "Popular Service",
+        "cardTitle": "Brake Repair & Replacement",
+        "cardBody": "Ensure your safety with our thorough brake inspections and quality parts. We service all makes and models."
       },
       {
-        "eyebrow": "Customer First",
-        "title": "Convenient & Reliable Auto Care",
-        "body": "We know your time is valuable. That's why we offer quick turnaround times, shuttle service, and a comfortable waiting area. Our online scheduling makes it easy to book an appointment that fits your busy schedule.",
+        "eyebrow": "Transparent & Reliable",
+        "title": "Honest Advice, Quality Work",
+        "body": "We believe in clear communication and upfront pricing. Our team explains every repair in plain English, so you can make informed decisions about your vehicle.",
         "bullets": [
-          "Same-day service available",
-          "Free multi-point inspection",
-          "Online appointment booking",
-          "Complimentary shuttle within Dallas"
+          "Free multi-point inspections",
+          "Detailed estimates before work begins",
+          "Warranty on parts and labor"
         ],
         "reverse": true,
-        "cardLabel": "Special Offer",
-        "cardTitle": "First-Time Customer Discount",
-        "cardBody": "Save 10% on your first repair or maintenance service. Mention this offer when you call."
+        "cardLabel": "Customer Promise",
+        "cardTitle": "Satisfaction Guaranteed",
+        "cardBody": "We stand behind our work. If you're not happy, we'll make it right."
       }
     ],
     "whyTitle": "Why Choose P V Auto Services?",
     "whyChooseUs": [
       {
-        "title": "Certified Technicians",
-        "description": "Our ASE-certified mechanics have years of experience and continuous training to handle modern vehicles."
-      },
-      {
-        "title": "Fair & Transparent Pricing",
-        "description": "We provide detailed estimates upfront with no surprises. You approve all work before we begin."
+        "title": "Experienced Technicians",
+        "description": "Our team has decades of combined experience working on domestic and import vehicles."
       },
       {
         "title": "Fast Turnaround",
-        "description": "Most repairs are completed the same day. We respect your schedule and get you back on the road quickly."
+        "description": "We respect your time. Most repairs are completed the same day."
       },
       {
-        "title": "Warranty Protection",
-        "description": "All repairs come with a comprehensive warranty for your peace of mind. We stand behind our work."
+        "title": "Fair & Transparent Pricing",
+        "description": "No surprises. You'll get a detailed quote before any work starts."
+      },
+      {
+        "title": "Convenient Location",
+        "description": "Proudly serving Dallas with easy access and ample parking."
       }
     ],
     "testimonials": [
       {
-        "quote": "P V Auto has been servicing my family's cars for years. They're honest, fair, and always do great work. Highly recommend!",
-        "author": "Mike R.",
-        "role": "Dallas homeowner"
-      },
-      {
-        "quote": "I brought my SUV in for a strange noise and they diagnosed it quickly. The repair was affordable and my car runs like new. Thanks!",
-        "author": "Lisa T.",
+        "quote": "P V Auto Services saved me hundreds compared to the dealer. They diagnosed my check engine light in minutes and had me back on the road the same day. Highly recommend!",
+        "author": "James R.",
         "role": "Lakewood resident"
       },
       {
-        "quote": "Great experience from start to finish. They kept me informed throughout the repair and finished ahead of schedule.",
-        "author": "James K.",
-        "role": "Uptown Dallas driver"
+        "quote": "I've been bringing my SUV here for years. They always do a thorough job and explain everything clearly. Never felt pressured into unnecessary repairs.",
+        "author": "Maria G.",
+        "role": "Oak Lawn homeowner"
+      },
+      {
+        "quote": "Honest mechanics are hard to find. P V Auto is the real deal. They fixed my transmission issue at a fair price and it's been running perfectly ever since.",
+        "author": "David L.",
+        "role": "Uptown commuter"
       }
     ],
     "cta": {
-      "headline": "Ready to Get Your Car Serviced?",
-      "subheadline": "Call us or book online today. We'll take care of the rest.",
-      "primaryCta": "Schedule Appointment",
+      "headline": "Ready to Experience Top-Notch Auto Service?",
+      "subheadline": "Schedule your appointment today and see why Dallas drivers trust P V Auto Services.",
+      "primaryCta": "Book Online",
       "secondaryCta": "Call (214) 828-9690"
     }
   },
   "servicesPage": {
-    "intro": "At P V Auto Services in Dallas, TX, we offer a full range of auto repair and maintenance services for all makes and models. Our experienced technicians use the latest tools and techniques to keep your vehicle running at its best. Explore our services below."
+    "intro": "At P V Auto Services, we offer a full range of auto repair and maintenance services to keep your vehicle running at its best. From routine oil changes to major engine repairs, our skilled technicians use the latest tools and techniques to deliver reliable results."
   },
   "services": [
     {
       "icon": "01",
       "title": "Engine Diagnostics & Repair",
-      "shortDescription": "Accurate diagnostics and expert engine repairs to restore performance.",
-      "longDescription": "From check engine lights to major overhauls, our technicians use advanced diagnostic equipment to pinpoint issues quickly. We repair or replace components with precision, ensuring your engine runs smoothly and efficiently.",
+      "shortDescription": "Accurate diagnostics and expert repairs for all engine issues.",
+      "longDescription": "Our advanced diagnostic equipment quickly identifies engine problems, from check engine lights to performance issues. We provide comprehensive repairs using quality parts to restore your engine's efficiency and power.",
       "benefits": [
-        "Restored engine performance",
-        "Improved fuel efficiency",
-        "Reduced emissions",
-        "Extended engine life"
+        "Pinpoint accuracy with factory-grade scanners",
+        "Restored fuel economy and performance",
+        "Long-lasting repairs backed by warranty"
       ],
       "process": [
         {
-          "title": "Diagnostic Scan",
-          "description": "We connect your vehicle to our diagnostic system to read error codes and identify problems."
+          "title": "Thorough Inspection",
+          "description": "We run a full diagnostic scan and inspect all engine components."
         },
         {
-          "title": "Inspection & Estimate",
-          "description": "Our mechanic inspects the affected components and provides a detailed repair estimate for your approval."
+          "title": "Detailed Explanation",
+          "description": "Our technician explains the issue and provides a clear estimate."
         },
         {
-          "title": "Repair & Testing",
-          "description": "We perform the necessary repairs using quality parts, then test the engine to ensure everything is working perfectly."
+          "title": "Expert Repair",
+          "description": "We complete the repair with precision and test drive to confirm."
         }
       ],
       "faqs": [
         {
           "question": "How long does an engine diagnostic take?",
-          "answer": "Most diagnostics are completed within an hour. Complex issues may require more time for thorough inspection."
+          "answer": "Most diagnostics take about 30-60 minutes, depending on the complexity."
         },
         {
-          "question": "Do you use OEM parts for repairs?",
-          "answer": "We use high-quality OEM and aftermarket parts as recommended by your vehicle manufacturer, ensuring reliability and performance."
+          "question": "Do you service both gas and diesel engines?",
+          "answer": "Yes, we work on all types of engines, including diesel and hybrid systems."
         }
       ],
       "slug": "engine-diagnostics-repair"
     },
     {
       "icon": "02",
-      "title": "Brake System Service",
-      "shortDescription": "Complete brake inspection, repair, and replacement for safety.",
-      "longDescription": "Your brakes are your vehicle's most important safety feature. We inspect pads, rotors, calipers, and fluid to ensure optimal stopping power. Whether you need a pad replacement or a full brake overhaul, we've got you covered.",
+      "title": "Brake Services",
+      "shortDescription": "Complete brake inspection, repair, and replacement.",
+      "longDescription": "Your safety depends on reliable brakes. We inspect pads, rotors, calipers, and fluid levels to ensure optimal stopping power. Using premium parts, we restore your brake system to manufacturer standards.",
       "benefits": [
-        "Enhanced stopping power",
-        "Reduced brake noise",
-        "Longer brake life",
-        "Peace of mind on the road"
+        "Enhanced safety and stopping distance",
+        "Quieter, smoother braking performance",
+        "Extended brake component life"
       ],
       "process": [
         {
-          "title": "Brake Inspection",
-          "description": "We check pad thickness, rotor condition, caliper function, and brake fluid level."
+          "title": "Comprehensive Brake Check",
+          "description": "We measure pad thickness, rotor condition, and fluid quality."
         },
         {
-          "title": "Recommendation & Approval",
-          "description": "We explain what's needed and provide a clear estimate. No pressure, just honest advice."
+          "title": "Transparent Recommendation",
+          "description": "We show you what needs attention and explain your options."
         },
         {
-          "title": "Service & Test Drive",
-          "description": "We replace worn components, bleed the system if needed, and test drive to confirm smooth operation."
+          "title": "Quality Installation",
+          "description": "We replace worn parts with high-quality components and test the system."
         }
       ],
       "faqs": [
         {
-          "question": "How often should I get my brakes checked?",
-          "answer": "We recommend a brake inspection every 12,000 miles or at least once a year."
+          "question": "How often should I replace my brake pads?",
+          "answer": "Typically every 30,000-50,000 miles, but it depends on driving habits."
         },
         {
-          "question": "What are signs that my brakes need service?",
-          "answer": "Squealing, grinding, a soft brake pedal, or longer stopping distances are common signs."
+          "question": "Do you offer brake pad warranties?",
+          "answer": "Yes, we warranty our brake parts and labor for your peace of mind."
         }
       ],
-      "slug": "brake-system-service"
+      "slug": "brake-services"
     },
     {
       "icon": "03",
       "title": "Oil Change & Fluid Services",
-      "shortDescription": "Regular oil changes and fluid checks to keep your engine healthy.",
-      "longDescription": "Routine oil changes are vital for engine longevity. We use premium oils and filters to protect your engine. We also check and top off all fluids, including coolant, transmission, brake, and power steering fluid.",
+      "shortDescription": "Keep your engine healthy with regular oil changes and fluid checks.",
+      "longDescription": "Regular oil changes are the best way to extend your engine's life. We use quality oils and filters, and also check all other fluids — coolant, transmission, brake, and power steering — to keep your car running smoothly.",
       "benefits": [
-        "Better engine lubrication",
-        "Improved fuel economy",
-        "Prevents engine wear",
-        "Extends vehicle life"
+        "Improved engine longevity and performance",
+        "Better fuel efficiency",
+        "Preventative maintenance that catches issues early"
       ],
       "process": [
         {
-          "title": "Drain Old Oil",
-          "description": "We safely drain the old oil and dispose of it responsibly."
+          "title": "Fluid Level Inspection",
+          "description": "We check all fluid levels and top off as needed."
         },
         {
-          "title": "Replace Filter & Add New Oil",
-          "description": "We install a new oil filter and add the correct grade and amount of fresh oil."
+          "title": "Oil & Filter Change",
+          "description": "We drain old oil, replace the filter, and fill with fresh oil."
         },
         {
-          "title": "Fluid Check & Top-Off",
-          "description": "We inspect all other fluid levels and top them off as needed, plus a quick visual inspection."
+          "title": "Multi-Point Check",
+          "description": "We inspect belts, hoses, and other key components."
         }
       ],
       "faqs": [
         {
-          "question": "What type of oil do you use?",
-          "answer": "We use high-quality conventional, synthetic, or synthetic blend oils based on your vehicle's requirements."
+          "question": "What type of oil do you recommend?",
+          "answer": "We follow your manufacturer's recommendation, whether conventional, synthetic, or blend."
         },
         {
-          "question": "How often should I get an oil change?",
-          "answer": "Typically every 3,000-5,000 miles for conventional oil, or up to 7,500 miles for synthetic. Check your owner's manual."
+          "question": "How often should I change my oil?",
+          "answer": "Most modern cars need an oil change every 5,000-7,500 miles."
         }
       ],
       "slug": "oil-change-fluid-services"
@@ -235,82 +230,81 @@
       "icon": "04",
       "title": "AC & Heating Repair",
       "shortDescription": "Keep your cabin comfortable with expert AC and heating service.",
-      "longDescription": "A malfunctioning AC or heater can make driving miserable. Our technicians diagnose and repair all climate control issues, from refrigerant leaks to blower motor failures. We restore comfort to your cabin quickly.",
+      "longDescription": "A malfunctioning AC or heater can make driving miserable. We diagnose and repair all climate control systems, from refrigerant leaks to blower motor failures, ensuring you stay comfortable year-round.",
       "benefits": [
-        "Comfortable driving year-round",
-        "Proper defrosting for safety",
-        "Improved air quality",
-        "Energy-efficient operation"
+        "Fast relief from AC or heating issues",
+        "Efficient system performance",
+        "Eco-friendly refrigerant handling"
       ],
       "process": [
         {
           "title": "System Diagnosis",
-          "answer": "We check refrigerant levels, compressor function, and electrical components to find the root cause."
+          "description": "We test pressures, temperatures, and electrical components."
         },
         {
-          "title": "Repair Plan",
-          "description": "We provide a clear explanation of the issue and a detailed repair plan with costs."
+          "title": "Leak Detection & Repair",
+          "description": "We find and fix refrigerant leaks using UV dye and electronic detectors."
         },
         {
-          "title": "Service & Recharge",
-          "description": "We repair or replace faulty parts, then recharge the system to manufacturer specifications."
+          "title": "Performance Test",
+          "description": "We verify proper operation and charge the system to spec."
         }
       ],
       "faqs": [
         {
           "question": "Why is my AC blowing warm air?",
-          "answer": "Common causes include low refrigerant, a faulty compressor, or an electrical issue. We'll diagnose precisely."
+          "answer": "Common causes include low refrigerant, a faulty compressor, or an electrical issue. We'll diagnose the exact problem."
         },
         {
-          "question": "How much does an AC recharge cost?",
-          "answer": "Costs vary based on refrigerant type and system condition. We offer competitive pricing and will provide an estimate upfront."
+          "question": "Do you repair heaters as well?",
+          "answer": "Yes, we service both AC and heating systems, including heater cores and controls."
         }
       ],
       "slug": "ac-heating-repair"
     }
   ],
   "about": {
-    "headline": "Your Trusted Local Auto Mechanic in Dallas",
-    "mission": "Our mission is to provide honest, high-quality auto repair services that keep Dallas drivers safe and satisfied. We believe in transparency, integrity, and exceptional craftsmanship.",
+    "headline": "Dallas's Trusted Auto Repair Experts",
+    "mission": "Our mission is to provide honest, high-quality auto repair services that keep our customers safe and satisfied. We believe in transparency, integrity, and craftsmanship.",
     "story": [
-      "P V Auto Services was founded with a simple vision: create an auto repair shop where customers feel respected and valued. Our founder, a seasoned mechanic with over 15 years of experience, noticed that many shops prioritized profits over people. He set out to build a different kind of garage—one built on trust, fairness, and technical excellence.",
-      "Today, we continue that legacy. Our team of certified technicians serves the Dallas community with pride, treating every vehicle as if it were our own. From routine maintenance to complex repairs, we deliver dependable service at fair prices. We're not just fixing cars; we're building lasting relationships with our neighbors."
+      "P V Auto Services has been a staple in the Dallas community for over two decades. Founded by a team of passionate mechanics, our shop was built on the principle that every customer deserves fair treatment and expert workmanship. We started small, but word-of-mouth quickly spread, and today we're proud to serve thousands of loyal customers from across the city.",
+      "Our commitment to continuous learning and investment in the latest technology ensures we stay ahead of the curve. Whether it's a classic car or the newest model, our technicians have the skills and tools to handle it all. We treat every vehicle as if it were our own, and that dedication has earned us a reputation as one of Dallas's most reliable auto shops."
     ],
     "highlight": {
-      "stat": "15+",
-      "label": "Years of Service"
+      "stat": "20+",
+      "label": "Years Serving Dallas"
     },
     "coreValues": [
       {
         "title": "Integrity",
-        "description": "We always do the right thing, even when no one is watching. Honest recommendations and transparent pricing are our standards."
+        "description": "We always tell you what your car needs — and what it doesn't."
       },
       {
         "title": "Quality",
-        "description": "We take pride in our work. Every repair is performed to the highest standards using top-tier parts and techniques."
+        "description": "We use top-tier parts and follow manufacturer specifications."
       },
       {
-        "title": "Respect",
-        "description": "We treat our customers, their vehicles, and our team with dignity and professionalism."
+        "title": "Customer Focus",
+        "description": "Your satisfaction is our priority. We listen, explain, and deliver."
       },
       {
         "title": "Community",
-        "description": "We are proud to serve Dallas and give back whenever we can. Your trust fuels our passion."
+        "description": "We're proud to be a local business that gives back to Dallas."
       }
     ]
   },
   "contact": {
-    "headline": "Get In Touch",
-    "subheadline": "Ready to schedule service or have a question? We're here to help.",
+    "headline": "Get in Touch with P V Auto Services",
+    "subheadline": "Ready to schedule your appointment? Call us or fill out the form below, and we'll get back to you promptly.",
     "primaryCta": "Call (214) 828-9690",
     "formCta": "Send Message",
     "serviceAreas": [
       "Dallas",
-      "Highland Park",
-      "University Park",
       "Lakewood",
+      "Oak Lawn",
       "Uptown",
-      "Oak Lawn"
+      "Highland Park",
+      "University Park"
     ]
   },
   "social_proof": {
